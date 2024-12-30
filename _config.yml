@@ -3,3 +3,11 @@ theme: jekyll-theme-dinky
 header_pages:
   - calendar.md
   - Project_assignments.md
+
+
+# Navigation menu
+navigation:
+  - name: Home
+    link: /
+  - name: Calendar
+    link: /calendar
