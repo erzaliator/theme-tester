@@ -1,7 +1,8 @@
 ---
-title: CALENDAR PAGE
---- 
+layout: page
+title: Calendar
+permalink: /calendar/
+---
 
 # Calendar
-
-weekly schedule here
+This is the content of the calendar page.
