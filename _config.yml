@@ -2,5 +2,5 @@ theme: jekyll-theme-dinky
 
 # Pages to include in the header (navigation bar)
 header_pages:
-  - calendar
-  - Project_assignments
+  - calendar.md
+  - Project_assignments.md
