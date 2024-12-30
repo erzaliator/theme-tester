@@ -1,7 +1,5 @@
 ---
 title: CALENDAR PAGE
-layout: template
-filename: calendar.md
 --- 
 
 # Calendar
