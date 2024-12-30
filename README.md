@@ -1,9 +1,6 @@
 # theme-tester
 
 
-|     Week    |  Topic  | Readings  | Notebook  |
-|:-------------:|:--------------:|:-----:|
-| Week1 | United Kingdom | UKLO  | ??? |
-| Week2       | ???            | ???   | ??? |
-| Week3           | ???            | ???   | ??? |
-| Week4           | ???            | ???   | ??? |
+|Week|Topics  | Reading | Notebook | Solution|
+|--|--|--|--|--|
+| wwek | topics | reading| notebook | solution  |
